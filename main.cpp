@@ -130,10 +130,10 @@ int main(int argc, char* argv[]) {
 
         // test samples fetch
 	    ssize_t rxn = iio_buffer_refill(imubuf);
-	   /* if (rxn < 0)
+	    if (rxn < 0)
 	        printf("Error filling up IMU buffer!\n");
 	    else
-		printf("Filling up IMU buffer succeeded!\n"); */
+		printf("Filling up IMU buffer succeeded!\n");
 
 	    //ifstream imu1_Ax("/sys/bus/iio/devices/iio:device1/in_accel_x_raw");
 	    //ifstream imu1_Ay("/sys/bus/iio/devices/iio:device1/in_accel_y_raw");

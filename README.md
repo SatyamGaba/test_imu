@@ -13,4 +13,4 @@ To use this code, you should first
 
 ## Debug
 
-To help solve the bug, see line 132 in "main.cpp", you can comment this line to see the workable streaming.
+To help solve the bug, see line 132 in "main.cpp", you can comment this line to see the workable streaming
