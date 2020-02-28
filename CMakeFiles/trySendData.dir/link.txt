@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/trySendData.dir/main.cpp.o  -o trySendData /usr/lib/aarch64-linux-gnu/libiio.so 
